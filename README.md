@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:071A2B,65:003B52,100:00E5FF&height=250&section=header&text=OMKAR%20GUDale&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=STUDENT%20DEVELOPER%20%7C%20CODE%20EXPLORER&descSize=15&descAlignY=57" alt="Omkar developer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:071A2B,65:003B52,100:00E5FF&height=250&section=header&text=OMKAR%20GUDALE&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=STUDENT%20DEVELOPER%20%7C%20CODE%20EXPLORER&descSize=15&descAlignY=57" alt="Omkar developer banner"/>
 
 <br/>
 
